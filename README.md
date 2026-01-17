@@ -14,4 +14,4 @@
 - **Simulation:** Factory IO.
 - **Languages:** C/C++, Structured Text (ST).
 
-📫 **How to reach me:** [https://www.linkedin.com/in/le-quoc-bao-automation?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0xineRM6S0On%2BzU5qvqfLw%3D%3D]
+📫 **How to reach me:** [https://nlink.at/le_quoc_bao_automation]
